@@ -1,0 +1,2 @@
+# Adamas
+a simple lib
